@@ -11,7 +11,7 @@ Freight is the backbone of our economy. As such, there is an endless supply of d
  
 Finding #1: You will get the biggest bang for your buck focusing on the top four transportation modes
  
-Top 4 (# of Tons Transported, Commodity Value, Ton-miles)
+## Top 4 (# of Tons Transported, Commodity Value, Ton-miles)
   1.	Single Modes (11.5B tons)
   2.	Trucks (9.0B tons)
   3.	For-hire trucks (5.6B tons)
@@ -77,7 +77,7 @@ Takeaway: Bulk commodities may ship cheaper than specialized commodities
 Based on our analysis, we recommend you focus your market research efforts on the top four transportation modes (single modes, trucks, for-hire trucks, company-owned trucks
 
 
-Project Requirements:
+## Project Requirements:
 Visualization must include: 
 •	Python Flask RESTful API, HTML, CSS, and JavaScript; and 
 •	At least one database (MongoDB, SQLite, etc.); and
@@ -90,7 +90,7 @@ Project must fall into one of the following 3 tracks:
 •	A combination of web scraping and Leaflet or Plotly
 •	A dashboard page with multiple charts that update from the same data
 
-Source Data:
+## Source Data:
 Bureau of Transportation Statistics
 •	https://www.bts.gov/topics/freight-transportation/freight-shipments-value
 •	Value of Freight Shipments by State: 2017
