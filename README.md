@@ -39,19 +39,19 @@ We've included commodity data in order to help you better stratify the market. I
 #### Average miles per shipment
  
 Top 4
-  a.	Tobacco products (1,209)
-  b.	Textiles/Leather (1,009)
-  c.	Misc Manufactured products (978)
-  d.	Precision instruments and apparatus (902)
+  1.	Tobacco products (1,209)
+  2.	Textiles/Leather (1,009)
+  3.	Misc Manufactured products (978)
+  4.	Precision instruments and apparatus (902)
 
 Takeaway: Transportation costs will have a greater impact on the retail cost of these commodities than on other commodities that are shipped shorter distances
  
 #### Commodity Value
 Top 4
-  a.	Mixed Freight ($1.5 trillion)
-  b.	Motorized and other vehicles (includes parts) -> $1.3 trillion
-  c.	Pharmaceutical products ($1.17 trillion)
-  d.	Electronic/electrical equipment ($1.14 trillion)
+  1.	Mixed Freight ($1.5 trillion)
+  2.	Motorized and other vehicles (includes parts) -> $1.3 trillion
+  3.	Pharmaceutical products ($1.17 trillion)
+  4.	Electronic/electrical equipment ($1.14 trillion)
 
 Takeaway: Wholesale costs of these commodities will likely trend higher based on their relative intrinsic value and will likely result in smaller margins for transporters
 
@@ -72,7 +72,7 @@ TN has the 10th highest inbound freight tonnage, inbound freight value and outbo
 Takeaway: Bulk commodities may ship cheaper than specialized commodities
  
  
-Based on our analysis, we recommend you focus your market research efforts on the top four transportation modes (single modes, trucks, for-hire trucks, company-owned trucks
+## Based on our analysis, we recommend you focus your market research efforts on the top four transportation modes (single modes, trucks, for-hire trucks, company-owned trucks
 
 
 ## Project Requirements:
