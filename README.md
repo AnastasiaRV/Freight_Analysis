@@ -39,7 +39,6 @@ We've included commodity data in order to help you better stratify the market. I
 #### Average miles per shipment
  
 Top 4
-
   a.	Tobacco products (1,209)
   b.	Textiles/Leather (1,009)
   c.	Misc Manufactured products (978)
@@ -49,7 +48,6 @@ Takeaway: Transportation costs will have a greater impact on the retail cost of 
  
 #### Commodity Value
 Top 4
-
   a.	Mixed Freight ($1.5 trillion)
   b.	Motorized and other vehicles (includes parts) -> $1.3 trillion
   c.	Pharmaceutical products ($1.17 trillion)
