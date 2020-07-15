@@ -1,7 +1,7 @@
 ## Test Page
 ## Find Results [here](https://anastasiarv.github.io/Freight_Analysis/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AnastasiaRV)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Project2_ATwistofFreight
 Project 2: A Twist of Freight (HTML, Javascript, Python (Flask app), SQLite, CSS)
