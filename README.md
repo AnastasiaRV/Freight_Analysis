@@ -36,6 +36,7 @@ In view 2, we'll examine the correlation between average miles per shipment and 
  
 Based on our data, the average miles per shipment and total ton-miles trended downward for high-value, high-tonnage shipments, averaging less than 400 miles per shipment and less than 400 million ton-miles per transportation mode
 
+![View2](View2.png)
 
 #### View 3: Commodities
  
@@ -68,6 +69,8 @@ Takeaway: Wholesale costs of these commodities will likely trend higher based on
 
 Takeway: Impacts total ton-miles, which could have emission impacts (i.e. the more tons you ship, the more pollutants from the transportation mode enter the atmosphere, causing health concerns; environmental fines can be substantial)
 
+![View3](View3.png)
+
 ### View 4: Inbound vs. Outbound Freight
  
 TX and CA have the highest inbound freight tonnage, inbound freight value, and outbound freight value respectively
@@ -75,8 +78,9 @@ TX and CA have the highest inbound freight tonnage, inbound freight value, and o
 TN has the 10th highest inbound freight tonnage, inbound freight value and outbound freight value
  
 Takeaway: Bulk commodities may ship cheaper than specialized commodities
- 
- 
+
+![View4](View4.png)
+
 ## Based on our analysis, we recommend you focus your market research efforts on the top four transportation modes (single modes, trucks, for-hire trucks, company-owned trucks
 
 
