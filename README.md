@@ -1,11 +1,12 @@
-# Analysis Project: A Twist of Freight 
+# Analysis Project: Movement of Freight in the United States
 
 Development Team: Anastasia Valdes, Saya Uchiyama, Ally Qi, Madison Jenkins, Michael V Harris
 
-A Twist of Freight
-Freight is the backbone of our economy. As such, there is an endless supply of data on this subject and companies are constantly using this data to identify past, present, and future trends to identify supply chain transportation opportunities. We are interested in analyzing the movement of freight into, within, and outside of each state in terms of tonnage, specific commodities, and value. 
+Freight is the backbone of our economy. Companies use this data to identify trends and supply chain transportation opportunities. We are interested in analyzing the movement of freight into, within, and outside of each state in terms of tonnage, specific commodities, and value. 
 
 ## Our project focuses on analyzing the movement of freight, what's being hauled and who's hauling it. So without any delay, let's delve into our key findings. 
+
+Focus is on providing actionable information for client business to market products to freight haulers. The conclusions of this analysis will help focus marketing efforts on the most likely segments thus preserving available resources and better targeting for product adoption. 
 
 ### View 1: Transportation Modes
  
