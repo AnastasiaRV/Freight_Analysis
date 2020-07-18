@@ -24,8 +24,7 @@ Takeaway 1: There is a direct correlation between # of tons transported, commodi
  
 Takeaway 2: For logistical costing purposes if the key considerations are expediency and modal availability, go with the top 4 modes; if not, consider the remaining modes based on cost
 
-![Tonnage Vs Value View 1](Tonnage Vs Value View 1.png)
-![Screenshot](screenshot.png)
+![View1](View1.png)
 
 ### We've provided additional information in order to help you and your team visualize the market
 
