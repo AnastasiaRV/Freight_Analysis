@@ -14,7 +14,7 @@ The focus of this project is to create a high-level overview of the transportati
  
 Finding #1: You will get the biggest bang for your buck focusing on the top four transportation modes
  
-## Top 4 (# of Tons Transported, Commodity Value, Ton-miles)
+#### Top 4 (# of Tons Transported, Commodity Value, Ton-miles)
   1.	Single Modes (11.5B tons)
   2.	Trucks (9.0B tons)
   3.	For-hire trucks (5.6B tons)
@@ -24,9 +24,9 @@ Takeaway 1: There is a direct correlation between # of tons transported, commodi
  
 Takeaway 2: For logistical costing purposes if the key considerations are expediency and modal availability, go with the top 4 modes; if not, consider the remaining modes based on cost
 
-## We've provided additional information in order to help you and your team visualize the market
+### We've provided additional information in order to help you and your team visualize the market
 
-### View 2: Transportation Mode Characteristics
+#### View 2: Transportation Mode Characteristics
  
 In view 1 we identified Single Modes, Trucks, For-hire trucks, and Company-owned trucks as the top 4 transportation modes
  
@@ -35,7 +35,7 @@ In view 2, we'll examine the correlation between average miles per shipment and 
 Based on our data, the average miles per shipment and total ton-miles trended downward for high-value, high-tonnage shipments, averaging less than 400 miles per shipment and less than 400 million ton-miles per transportation mode
 
 
-### View 3: Commodities
+#### View 3: Commodities
  
 We've included commodity data in order to help you better stratify the market. It's worth pointing out that the commodity data will require additional future research in order to be actionable but is a good starting point for isolating key market movers.
  
