@@ -2,11 +2,13 @@
 
 Development Team: Anastasia Valdes, Saya Uchiyama, Ally Qi, Madison Jenkins, Michael V Harris
 
-Freight is the backbone of our economy. Companies use this data to identify trends and supply chain transportation opportunities. We are interested in analyzing the movement of freight into, within, and outside of each state in terms of tonnage, specific commodities, and value. 
+# Overview
+
+Freight is the backbone of our economy. Companies use this data to identify trends and transportation supply chain opportunities. We are interested in analyzing the movement of freight into, within, and outside of each state in terms of tonnage, specific commodities, and value. 
 
 ## Our project focuses on analyzing the movement of freight, what's being hauled and who's hauling it. So without any delay, let's delve into our key findings. 
 
-Focus is on providing actionable information for client business to market products to freight haulers. The conclusions of this analysis will help focus marketing efforts on the most likely segments thus preserving available resources and better targeting for product adoption. 
+The focus of this project is to create a high-level overview of the transportation sector in the United States. The intent is to provide actionable information for client business to market products to freight haulers. The conclusions of this analysis will allow marketing teams to focus marketing efforts on the most likely segments in need of services and that have the potential to generate revenue for products. With limited available resources better targeting for product adoption is essential. 
 
 ### View 1: Transportation Modes
  
